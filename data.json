@@ -47,27 +47,6 @@
           "startUTC": "2025-01-20T16:00:00Z",
           "endUTC": "2025-02-20T16:00:00Z"
         }
-        {
-      "id": "jujutsu-sgg",
-      "name": "jujutsu shingagns",
-      "image": "https://i.imgur.com/lX9KQ0p.jpg",
-
-      "activeCodes": [
-        "beatdownemote2025",
-        "RANKEDFIX"
-      ],
-
-      "expiredCodes": [
-        "OLDGOAL",
-        "SEASON1"
-      ],
-
-      "events": [
-        {
-          "title": "toji update 2",
-          "startUTC": "2025-01-20T16:00:00Z",
-          "endUTC": "2025-02-20T16:00:00Z"
-        }
       ]
     }
   ]
