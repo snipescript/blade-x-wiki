@@ -1,51 +1,17 @@
 {
   "maps": [
     {
-      "id": "blox-fruits",
-      "name": "Blox Fruits ww",
-      "image": "https://i.imgur.com/9ZQZ9ZL.jpg",
-
-      "activeCodes": [
-        "ADMINHACK2026",
-        "UPDATE20",
-        "XPBOOST"
-      ],
-
-      "expiredCodes": [
-        "OLDXP",
-        "RESETSTATS",
-        "FRUIT2024"
-      ],
-
-      "events": [
-        {
-          "title": "Winter Update",
-          "startUTC": "2025-01-15T17:00:00Z",
-          "endUTC": "2025-02-05T17:00:00Z"
-        }
-      ]
-    },
-
-    {
-      "id": "blue-lock-rivals",
       "name": "Blue Lock Rivals",
-      "image": "https://i.imgur.com/lX9KQ0p.jpg",
-
-      "activeCodes": [
-        "GOAL2025",
-        "RANKEDFIX"
-      ],
-
-      "expiredCodes": [
-        "OLDGOAL",
-        "SEASON1"
-      ],
-
+      "image": "https://i.imgur.com/4ZQZ4Zx.jpg",
+      "description": "Anime soccer Roblox experience.",
+      "codes": {
+        "active": ["NEWYEARHYPE","BUILDTHEROCKET"],
+        "expired": ["SNOWLOCK","HOLIDAYHYPE"]
+      },
       "events": [
         {
-          "title": "Ranked Season 2",
-          "startUTC": "2025-01-20T16:00:00Z",
-          "endUTC": "2025-02-20T16:00:00Z"
+          "name": "Winter Tournament",
+          "time": "2026-01-05T18:00:00Z"
         }
       ]
     }
