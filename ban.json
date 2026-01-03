@@ -1,0 +1,11 @@
+{
+  "bannedEmails": [
+    "test@gmail.com",
+    "baduser@yahoo.com"
+  ],
+  "bannedCountries": [
+    "EG",
+    "IR",
+    "KP"
+  ]
+}
