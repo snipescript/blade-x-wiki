@@ -5,8 +5,8 @@
       "image": "https://tr.rbxcdn.com/180DAY-d58172f1588a940325088faf11ccf1a4/768/432/Image/Webp/noFilter",
       "description": "Anime soccer Roblox experience.",
       "codes": {
-        "active": ["NEWYEARHYPE","BUILDTHEROCKET"],
-        "expired": ["SNOWLOCK","HOLIDAYHYPE"]
+        "active": ["NEWYEARHYPE", "BUILDTHEROCKET"],
+        "expired": ["SNOWLOCK", "HOLIDAYHYPE"]
       },
       "events": [
         {
@@ -14,17 +14,15 @@
           "time": "2026-01-05T18:00:00Z"
         }
       ]
-    }
-  ]
-{
-  "maps": [
+    },
+
     {
       "name": "Azure Latch",
       "image": "https://tr.rbxcdn.com/180DAY-d58172f1588a940325088faf11ccf1a4/768/432/Image/Webp/noFilter",
       "description": "Anime soccer Roblox experience.",
       "codes": {
-        "active": ["NEWYEARHYPE","BUILDTHEROCKET"],
-        "expired": ["SNOWLOCK","HOLIDAYHYPE"]
+        "active": ["NEWYEARHYPE", "BUILDTHEROCKET"],
+        "expired": ["SNOWLOCK", "HOLIDAYHYPE"]
       },
       "events": [
         {
